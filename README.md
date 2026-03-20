@@ -1,5 +1,5 @@
-flor marina torres jandres 
-Omar salvador garcia vasquez 
+##flor marina torres jandres 
+##Omar salvador garcia vasquez 
 
 
 ### 1. ¿Qué es Vue.js y cuál es su función dentro de la página web desarrollada?
